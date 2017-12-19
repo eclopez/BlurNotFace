@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../Seedfile">
+   </FileRef>
+   <FileRef
       location = "self:BlurNotFace.xcodeproj">
    </FileRef>
 </Workspace>
